@@ -1,0 +1,145 @@
+﻿Question,Price,Location,Gameday,Opponent,Level,Rank
+1,PRICE $100,Sideline,Standard,Division,Lower,2
+1,PRICE $100,Sideline,Primetime,Division,Lower,4
+1,PRICE $100,End Zone,Primetime,Division,Lower,3
+1,PRICE $100,End Zone,Standard,Division,Lower,1
+2,PRICE $175,Sideline,Standard,Premium,Middle,3
+2,PRICE $175,Sideline,Primetime,Premium,Middle,4
+2,PRICE $175,Sideline,Standard,Premium,Upper,2
+2,PRICE $175,End Zone,Standard,Premium,Middle,1
+3,PRICE $250,Sideline,Primetime,Division,Upper,1
+3,PRICE $175,Sideline,Primetime,Standard,Middle,2
+3,PRICE $100,End Zone,Primetime,Premium,Middle,4
+3,PRICE $100,Sideline,Standard,Standard,Lower,3
+4,PRICE $250,Sideline,Standard,Standard,Upper,2
+4,PRICE $250,End Zone,Standard,Division,Lower,1
+4,PRICE $175,Sideline,Primetime,Premium,Lower,3
+4,PRICE $100,Sideline,Primetime,Premium,Middle,4
+5,PRICE $100,End Zone,Primetime,Standard,Upper,3
+5,PRICE $175,End Zone,Primetime,Premium,Lower,4
+5,PRICE $100,End Zone,Primetime,Standard,Middle,2
+5,PRICE $250,End Zone,Primetime,Division,Middle,1
+6,PRICE $175,Sideline,Primetime,Standard,Middle,3
+6,PRICE $100,Sideline,Primetime,Premium,Lower,4
+6,PRICE $250,End Zone,Primetime,Division,Lower,1
+6,PRICE $250,Sideline,Standard,Premium,Upper,2
+7,PRICE $250,Sideline,Standard,Standard,Upper,3
+7,PRICE $250,Sideline,Primetime,Standard,Upper,1
+7,PRICE $175,Sideline,Standard,Standard,Upper,4
+7,PRICE $250,End Zone,Standard,Standard,Upper,2
+8,PRICE $100,Sideline,Standard,Division,Lower,4
+8,PRICE $100,End Zone,Standard,Premium,Middle,3
+8,PRICE $250,Sideline,Primetime,Standard,Middle,2
+8,PRICE $175,Sideline,Primetime,Standard,Upper,1
+9,PRICE $175,Sideline,Standard,Premium,Middle,4
+9,PRICE $175,End Zone,Standard,Standard,Upper,1
+9,PRICE $100,Sideline,Primetime,Division,Upper,2
+9,PRICE $250,Sideline,Primetime,Division,Lower,3
+10,PRICE $175,End Zone,Primetime,Standard,Lower,1
+10,PRICE $175,Sideline,Standard,Standard,Lower,4
+10,PRICE $175,End Zone,Standard,Standard,Lower,2
+10,PRICE $175,Sideline,Primetime,Standard,Lower,3
+11,PRICE $100,End Zone,Standard,Premium,Upper,2
+11,PRICE $100,Sideline,Primetime,Standard,Middle,4
+11,PRICE $175,Sideline,Primetime,Division,Lower,3
+11,PRICE $250,End Zone,Primetime,Standard,Middle,1
+12,PRICE $100,Sideline,Primetime,Division,Middle,4
+12,PRICE $175,Sideline,Standard,Standard,Upper,3
+12,PRICE $250,End Zone,Standard,Standard,Lower,1
+12,PRICE $100,End Zone,Primetime,Premium,Middle,2
+13,PRICE $175,End Zone,Standard,Division,Upper,2
+13,PRICE $100,End Zone,Primetime,Standard,Lower,3
+13,PRICE $250,End Zone,Standard,Premium,Upper,1
+13,PRICE $175,Sideline,Standard,Division,Middle,4
+14,PRICE $100,End Zone,Standard,Premium,Middle,3
+14,PRICE $100,Sideline,Standard,Premium,Upper,4
+14,PRICE $100,End Zone,Standard,Premium,Upper,2
+14,PRICE $100,Sideline,Primetime,Premium,Upper,1
+15,PRICE $250,Sideline,Standard,Standard,Lower,4
+15,PRICE $100,End Zone,Standard,Standard,Upper,2
+15,PRICE $100,End Zone,Primetime,Division,Middle,1
+15,PRICE $175,End Zone,Standard,Premium,Middle,3
+16,PRICE $250,Sideline,Primetime,Standard,Lower,3
+16,PRICE $100,Sideline,Standard,Premium,Middle,4
+16,PRICE $175,End Zone,Standard,Premium,Upper,2
+16,PRICE $250,End Zone,Primetime,Division,Lower,1
+17,PRICE $175,End Zone,Primetime,Division,Lower,4
+17,PRICE $250,End Zone,Primetime,Standard,Middle,1
+17,PRICE $175,End Zone,Primetime,Division,Upper,2
+17,PRICE $100,End Zone,Primetime,Premium,Upper,3
+18,PRICE $100,Sideline,Primetime,Premium,Lower,4
+18,PRICE $250,Sideline,Primetime,Division,Upper,2
+18,PRICE $175,End Zone,Primetime,Standard,Upper,3
+18,PRICE $175,Sideline,Standard,Division,Middle,1
+19,PRICE $100,Sideline,Primetime,Premium,Lower,4
+19,PRICE $250,End Zone,Primetime,Standard,Lower,2
+19,PRICE $250,Sideline,Standard,Premium,Middle,1
+19,PRICE $250,Sideline,Primetime,Premium,Lower,3
+20,PRICE $175,End Zone,Primetime,Division,Upper,1
+20,PRICE $100,Sideline,Standard,Division,Upper,3
+20,PRICE $175,Sideline,Primetime,Standard,Middle,4
+20,PRICE $250,Sideline,Standard,Premium,Lower,2
+21,PRICE $175,Sideline,Primetime,Premium,Upper,4
+21,PRICE $250,Sideline,Standard,Division,Lower,2
+21,PRICE $100,End Zone,Standard,Division,Middle,3
+21,PRICE $175,End Zone,Primetime,Standard,Upper,1
+22,PRICE $100,End Zone,Standard,Standard,Middle,3
+22,PRICE $250,End Zone,Primetime,Premium,Upper,1
+22,PRICE $175,End Zone,Standard,Division,Middle,2
+22,PRICE $100,Sideline,Standard,Standard,Lower,4
+23,PRICE $175,End Zone,Standard,Standard,Lower,2
+23,PRICE $175,Sideline,Primetime,Division,Upper,4
+23,PRICE $250,Sideline,Primetime,Premium,Middle,1
+23,PRICE $100,End Zone,Primetime,Division,Upper,3
+24,PRICE $175,Sideline,Standard,Premium,Upper,3
+24,PRICE $250,End Zone,Standard,Premium,Middle,1
+24,PRICE $250,End Zone,Primetime,Standard,Lower,2
+24,PRICE $100,End Zone,Standard,Division,Lower,4
+25,PRICE $250,Sideline,Primetime,Division,Upper,2
+25,PRICE $175,End Zone,Primetime,Premium,Upper,3
+25,PRICE $175,Sideline,Standard,Division,Lower,1
+25,PRICE $175,Sideline,Primetime,Division,Upper,4
+26,PRICE $250,End Zone,Primetime,Premium,Middle,3
+26,PRICE $100,End Zone,Standard,Standard,Lower,2
+26,PRICE $175,Sideline,Standard,Standard,Middle,1
+26,PRICE $100,End Zone,Standard,Division,Upper,4
+27,PRICE $250,End Zone,Primetime,Premium,Middle,3
+27,PRICE $100,End Zone,Primetime,Division,Upper,1
+27,PRICE $250,End Zone,Primetime,Premium,Lower,4
+27,PRICE $175,End Zone,Primetime,Standard,Lower,2
+28,PRICE $175,End Zone,Primetime,Division,Lower,2
+28,PRICE $250,End Zone,Standard,Premium,Upper,4
+28,PRICE $100,Sideline,Standard,Premium,Lower,3
+28,PRICE $250,End Zone,Standard,Standard,Middle,1
+29,PRICE $100,End Zone,Primetime,Standard,Middle,1
+29,PRICE $250,Sideline,Standard,Standard,Middle,2
+29,PRICE $100,Sideline,Primetime,Premium,Lower,3
+29,PRICE $175,Sideline,Standard,Division,Upper,4
+30,PRICE $250,End Zone,Standard,Division,Middle,4
+30,PRICE $250,Sideline,Primetime,Premium,Lower,3
+30,PRICE $100,Sideline,Primetime,Standard,Upper,2
+30,PRICE $175,End Zone,Primetime,Premium,Lower,1
+31,PRICE $250,End Zone,Standard,Premium,Middle,2
+31,PRICE $250,Sideline,Standard,Division,Lower,3
+31,PRICE $250,End Zone,Standard,Division,Middle,1
+31,PRICE $250,Sideline,Primetime,Division,Lower,4
+32,PRICE $100,End Zone,Primetime,Standard,Upper,2
+32,PRICE $175,End Zone,Standard,Division,Middle,4
+32,PRICE $250,Sideline,Standard,Division,Upper,1
+32,PRICE $175,End Zone,Standard,Premium,Lower,3
+33,PRICE $250,End Zone,Standard,Premium,Lower,2
+33,PRICE $175,End Zone,Primetime,Division,Middle,3
+33,PRICE $100,End Zone,Standard,Standard,Lower,4
+33,PRICE $250,Sideline,Standard,Premium,Upper,1
+34,PRICE $100,Sideline,Standard,Division,Middle,4
+34,PRICE $175,End Zone,Standard,Division,Lower,1
+34,PRICE $175,End Zone,Primetime,Premium,Upper,3
+34,PRICE $250,End Zone,Standard,Standard,Upper,2
+35,PRICE $250,End Zone,Primetime,Premium,Lower,3
+35,PRICE $175,Sideline,Standard,Premium,Lower,1
+35,PRICE $250,Sideline,Primetime,Division,Upper,2
+35,PRICE $100,Sideline,Standard,Standard,Middle,4
+36,PRICE $175,Sideline,Primetime,Standard,Middle,3
+36,PRICE $100,End Zone,Primetime,Division,Middle,1
+36,PRICE $100,Sideline,Standard,Standard,Upper,2
+36,PRICE $100,Sideline,Primetime,Standard,Middle,4
